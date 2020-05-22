@@ -1,0 +1,182 @@
+[
+  {
+    "id": "drone01",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone02",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone03",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone04",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone05",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone06",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone07",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone08",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone09",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone10",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone11",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone12",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone13",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone14",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone15",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone16",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone17",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone18",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone19",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  },
+  {
+    "id": "drone20",
+    "location": {
+      "x": 0,
+      "y": 0,
+      "orientation": "NORTH"
+    },
+    "status": "FREE"
+  }
+]
